@@ -1,0 +1,177 @@
+{
+  "library": "808-bass",
+  "displayName": "808 / Sub Bass One-Shots",
+  "description": "Sustained 808 / sub bass one-shots at multiple pitches for hip-hop/trap basslines. Mix of true 808 sustained tones (James_KuKu '808 C note' pack 40715, CC0) and chromatic sustained analog synth bass from MFB Kraftzwerg 'Boo Bass' pack 17440 by modularsamples (CC0).",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/James_KuKu/packs/40715/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/808-bass-opus-48",
+  "branch": "main",
+  "fileCount": 12,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/",
+  "files": [
+    {
+      "file": "808_brick_bag_C.opus",
+      "name": "808_brick_bag_C",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/808_brick_bag_C.opus",
+      "size": 16838,
+      "freesoundId": 729465,
+      "duration": 2.1,
+      "rootNote": 36,
+      "license": "CC0-1.0",
+      "source": "James_KuKu 808 C note pack"
+    },
+    {
+      "file": "808_navy_C.opus",
+      "name": "808_navy_C",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/808_navy_C.opus",
+      "size": 12301,
+      "freesoundId": 729503,
+      "duration": 1.9,
+      "rootNote": 36,
+      "license": "CC0-1.0",
+      "source": "James_KuKu 808 C note pack"
+    },
+    {
+      "file": "808_telesto_C.opus",
+      "name": "808_telesto_C",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/808_telesto_C.opus",
+      "size": 13158,
+      "freesoundId": 729520,
+      "duration": 2.1,
+      "rootNote": 36,
+      "license": "CC0-1.0",
+      "source": "James_KuKu 808 C note pack"
+    },
+    {
+      "file": "808_tiger_C.opus",
+      "name": "808_tiger_C",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/808_tiger_C.opus",
+      "size": 9982,
+      "freesoundId": 729525,
+      "duration": 1.4,
+      "rootNote": 36,
+      "license": "CC0-1.0",
+      "source": "James_KuKu 808 C note pack"
+    },
+    {
+      "file": "sub_bass_F2.opus",
+      "name": "sub_bass_F2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_F2.opus",
+      "size": 25855,
+      "freesoundId": 299342,
+      "duration": 4.8,
+      "rootNote": 41,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    },
+    {
+      "file": "sub_bass_A2.opus",
+      "name": "sub_bass_A2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_A2.opus",
+      "size": 24938,
+      "freesoundId": 299345,
+      "duration": 4.9,
+      "rootNote": 45,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    },
+    {
+      "file": "sub_bass_B2.opus",
+      "name": "sub_bass_B2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_B2.opus",
+      "size": 24246,
+      "freesoundId": 299347,
+      "duration": 4.8,
+      "rootNote": 47,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    },
+    {
+      "file": "sub_bass_C3.opus",
+      "name": "sub_bass_C3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_C3.opus",
+      "size": 23323,
+      "freesoundId": 299348,
+      "duration": 4.8,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    },
+    {
+      "file": "sub_bass_D3.opus",
+      "name": "sub_bass_D3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_D3.opus",
+      "size": 23084,
+      "freesoundId": 299350,
+      "duration": 4.7,
+      "rootNote": 50,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    },
+    {
+      "file": "sub_bass_E3.opus",
+      "name": "sub_bass_E3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_E3.opus",
+      "size": 23754,
+      "freesoundId": 299352,
+      "duration": 4.8,
+      "rootNote": 52,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    },
+    {
+      "file": "sub_bass_G3.opus",
+      "name": "sub_bass_G3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_G3.opus",
+      "size": 24440,
+      "freesoundId": 299356,
+      "duration": 4.7,
+      "rootNote": 55,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    },
+    {
+      "file": "sub_bass_A3.opus",
+      "name": "sub_bass_A3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/808-bass-opus-48/main/sub_bass_A3.opus",
+      "size": 24531,
+      "freesoundId": 299357,
+      "duration": 4.7,
+      "rootNote": 57,
+      "license": "CC0-1.0",
+      "source": "modularsamples MFB Kraftzwerg Boo Bass pack"
+    }
+  ],
+  "byNote": {
+    "36": [
+      "808_brick_bag_C.opus",
+      "808_navy_C.opus",
+      "808_telesto_C.opus",
+      "808_tiger_C.opus"
+    ],
+    "41": [
+      "sub_bass_F2.opus"
+    ],
+    "45": [
+      "sub_bass_A2.opus"
+    ],
+    "47": [
+      "sub_bass_B2.opus"
+    ],
+    "48": [
+      "sub_bass_C3.opus"
+    ],
+    "50": [
+      "sub_bass_D3.opus"
+    ],
+    "52": [
+      "sub_bass_E3.opus"
+    ],
+    "55": [
+      "sub_bass_G3.opus"
+    ],
+    "57": [
+      "sub_bass_A3.opus"
+    ]
+  }
+}
